@@ -17,4 +17,4 @@ c. Retrieve Reviews by Job ID:
 Once a job ID has been created (from either the Google search or the URL input), users can input that job ID into this third field. If the crawl status is marked as "complete," the script will display the final reviews that have been retrieved from the source.
 
 
-This script setup provides a flexible way to interact with the Datashake API, allowing users to search for reviews by location, URL, or existing job ID.
+This script setup provides a flexible way to interact with the Datashake API, allowing users to search for reviews by location, URL, or existing job ID. 
